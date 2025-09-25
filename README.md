@@ -3,7 +3,7 @@ O projeto é sobre um foguete da nasa
 
 # Descrição
 Este projeto serve apenas para prática de commits
-docs: adicionar descrição ao README
+
 #Meu Projeto Exemplo Atualizado
 fix: corrigir título do README
 ## Como usar
