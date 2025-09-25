@@ -10,4 +10,4 @@ Este projeto serve apenas para prática de commits
 Basta clonar este repositório no GitHub
 
 ## Liçenca
-Este projeto es´ta sob a licença MIT
+Este projeto está sob a licença MIT
