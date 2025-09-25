@@ -8,4 +8,4 @@ Este projeto serve apenas para prática de commits
 
 ## Como usar
 Basta clonar este repositório no GitHub
-docs: adicionar instruções de uso
+
